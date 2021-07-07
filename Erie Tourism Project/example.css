@@ -1,0 +1,27 @@
+h1 {
+font-family: 'Abril Fatface', cursive;
+color:#294572;
+font-size: 50px;
+}
+figcaption {
+font-family: 'Charmonman', cursive;
+}
+p{
+font-family: 'Ubuntu Condensed', sans-serif;
+color:#003287;
+font-size: 18px;
+}
+a {
+font-family:'Josefin Sans', sans-serif;
+color:#0900bc;
+font-size: 15px;
+}
+img {
+border: 4px solid #053a70;
+}
+h2 {font-family: 'Righteous', cursive;
+color:#294572; }
+h3{font-family: 'Kalam', cursive;
+color:#294572;}
+ul.Stores>li {
+color: white; }
